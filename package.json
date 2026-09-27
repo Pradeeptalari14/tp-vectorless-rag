@@ -1,0 +1,12 @@
+{
+  "name": "@pradeeptalari/tp-vectorless-rag",
+  "version": "1.0.0",
+  "description": "Vectorless RAG & Sparse Search Studio",
+  "main": "index.js",
+  "scripts": {
+    "validate": "bash scripts/validate.sh"
+  },
+  "keywords": ["vectorless-rag", "bm25", "full-text-search", "postgresql-fts", "sparse-retrieval", "manim"],
+  "author": "Pradeep Talari",
+  "license": "MIT"
+}
